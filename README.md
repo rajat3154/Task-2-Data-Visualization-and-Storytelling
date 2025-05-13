@@ -73,11 +73,4 @@ This dashboard demonstrates how thoughtful data visualization can extract busine
 
 ---
 
-## 📎 Screenshots
-*Dashboard screenshots are available in the `screenshots/` folder.*
-
----
-
-## ✍️ Author
-**Your Name** – [@yourhandle](https://github.com/yourhandle)
 
